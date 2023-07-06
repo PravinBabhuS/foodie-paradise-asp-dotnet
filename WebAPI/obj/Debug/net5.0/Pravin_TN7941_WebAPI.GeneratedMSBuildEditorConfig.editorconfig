@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net5.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pravin_TN7941_WebAPI
+build_property.ProjectDir = C:\Users\PRAVIN BABHU\Downloads\OneDrive_2_6-3-2023\Pravin_TN7941(1)\Pravin_TN7941(1)\Pravin_TN7941_WebAPI\
